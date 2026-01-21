@@ -17,7 +17,7 @@ Building an end-to-end agentic rag workflow with aim of understanding AWS Docume
 - The RAG part of this project is similar to what the article shows just that this is running locally in a Debian machine (running on Ubuntu 24.04.03)
 - Hardware limitations:
     ```
-    GPU: NVIDIA GeForce 940MX (likely a laptop GPU).
+    GPU: NVIDIA GeForce 940MX (laptop in-built GPU).
     Driver: NVIDIA Driver 580.95.05 (very recent version for 2026).
     CUDA: CUDA Version 13.0 is supported by this driver.
     ```
