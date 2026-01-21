@@ -1,0 +1,14 @@
+.env
+~/.env
+*/*.env
+*v1.py
+*_v1.py
+*v2.py
+*/*_v2.py
+*/*.txt
+aws-overview-pg12-13-only.pdf
+*/sagemaker*.pdf
+*/*venv*
+*venv
+__pycache__
+*/__pycache__*
