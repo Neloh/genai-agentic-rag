@@ -14,7 +14,7 @@ Building an end-to-end agentic rag workflow with aim of understanding AWS Docume
 ### Indexing the documents works
 ![](https://github.com/Neloh/genai-agentic-rag/blob/main/images/langchain_embedding_vector_ingested_in_postgres.png)
 
-- The RAG part of this project is similar to what the article shows just that this is running locally in a Debian machine (running on Ubuntu 24.04.03)
+- The RAG part of this project is similar to what the [AWS blog post](https://aws.amazon.com/blogs/database/build-generative-ai-applications-with-amazon-aurora-and-amazon-bedrock-knowledge-bases/) article shows just that this is running locally in a Debian machine (running on Ubuntu 24.04.03)
 - Hardware limitations:
     ```
     GPU: NVIDIA GeForce 940MX (laptop in-built GPU).
